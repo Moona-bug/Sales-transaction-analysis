@@ -24,4 +24,5 @@ How to run
 2. Install the required software (pandas, matplotlib, and jupyter notebook)
 
 command in terminal 'python -m pip install pandas matplotlib jupyterlab'
+
 3. Open 'analysis.ipynb' and run all cells
